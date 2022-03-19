@@ -1,7 +1,4 @@
 var expect = require('expect');
-var createSpy = expect.createSpy;
-var spyOn = expect.spyOn;
-var isSpy = expect.isSpy;
 
 const utils = require('./utils');
 
